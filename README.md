@@ -1,4 +1,4 @@
-# Res-Ensemble-LSTM Algorithm
+# Res-EnDe-LSTM Algorithm
 
 # Requirements
 
