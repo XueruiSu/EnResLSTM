@@ -4,6 +4,7 @@
 
 ```
 Python 3.6+
+Numpy
 OneFlow
 ```
 # 1.Score 
