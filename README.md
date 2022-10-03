@@ -10,6 +10,10 @@ OneFlow
 # 1.Score 
 Score:  48.86911847
 
+算法的性能参数如下：
+
+![restrain-ensemble](https://user-images.githubusercontent.com/77718956/193529123-cd3b5335-e81e-48ba-9102-c8f918727a0a.jpg)
+
 # 2、目录结构
 ```
 |-- figure # 模型训练过程指标下降情况图示
@@ -49,7 +53,4 @@ github这里只是代码，没有数据文件，因为有一些文件夹因为�
 之后会有一行测试输出，这个输出是我用得分比较高的npz结果文件来和程序infer出来的结果做一个对比：相关参数应该是：
 
 test: test_rmse_loss 14.863170,test_mae_loss 9.348677,test_mape_loss 12.778813
-## 3.3 包括训练和测试一键生成npz文件的脚本运行： sh run.sh（可选，最好有）
-
-我这个run.sh不一定对，其实就是python train.py这一句话。
-
+## 3.3 包括训练和测试一键生成npz文件的脚本运行： sh run.sh
