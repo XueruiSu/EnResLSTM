@@ -5,7 +5,7 @@
 ```
 Python 3.6+
 Numpy
-OneFlow
+Pytorch
 ```
 # 1.Score 
 Score:  48.86911847
