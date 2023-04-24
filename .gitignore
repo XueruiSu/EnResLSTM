@@ -1,4 +1,6 @@
-./model
-./data
-./figure
-./res
+
+
+./res/
+./model/
+./data/
+./figure/
