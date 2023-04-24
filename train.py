@@ -1,9 +1,8 @@
-import oneflow as torch
-import oneflow.nn as nn
-import oneflow.optim as optim
-import oneflow.utils.data as Data
-from oneflow.nn import init
-import oneflow.nn.functional as F
+import torch
+import numpy as np
+import torch.nn as nn
+import torch.nn.functional as F
+
 
 import numpy as np
 from matplotlib import pyplot as plt
